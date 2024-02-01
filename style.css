@@ -229,7 +229,7 @@ h1 {
 }
 
 .comm-top {
-    width: 380px !important;
+    max-width: 380px !important;
     height: auto !important;
     max-width: none !important;
 }
